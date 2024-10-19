@@ -1,0 +1,15 @@
+.sez-todo {
+    height: 100vh;
+}
+
+span.etichetta-categoria {
+    margin-left: 10px;
+    background-color: #00ffb9;
+    padding: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+
+button.categoria-scelta.selezionata{
+    background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+    color: white;
+}
